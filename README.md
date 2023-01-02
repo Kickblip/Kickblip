@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<div style="text-align: center;">
+<div align="center">
   [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Kickblip/langs?time_range=one_year&include_private=True&theme=dark)](https://githubtrends.io)
 </div>
 
