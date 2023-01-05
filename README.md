@@ -1,8 +1,10 @@
 
 <div align="center">
 
-<!-- <img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" width="200" height="200" /> -->
+<img src="https://i.imgur.com/o1IoiXa.gif" width="150" height="150" />
+<!-- <img src="https://fi.somethingawful.com/safs/titles/ec/a1/00211667.0004.gif" width="100" height="100" /> -->
   
+
 ![langs](https://api.githubtrends.io/user/svg/Kickblip/langs?time_range=one_year&include_private=True&theme=dark)
 
 </div>
